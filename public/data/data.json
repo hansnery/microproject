@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13 Pro",
+    "price": 1099.99,
+    "category": "Electronics",
+    "description": "The latest iPhone with advanced camera system and super retina XDR display."
+  },
+  {
+    "id": 2,
+    "name": "Leather Jacket",
+    "price": 249.99,
+    "category": "Fashion",
+    "description": "Genuine leather jacket with quilted lining and multiple pockets."
+  },
+  {
+    "id": 3,
+    "name": "Robot Vacuum Cleaner",
+    "price": 399.99,
+    "category": "Home Appliances",
+    "description": "Smart vacuum cleaner with mapping technology and voice control."
+  },
+  {
+    "id": 4,
+    "name": "The Great Gatsby",
+    "price": 12.99,
+    "category": "Books",
+    "description": "Classic novel by F. Scott Fitzgerald depicting the Jazz Age in America."
+  },
+  {
+    "id": 5,
+    "name": "Mountain Bike",
+    "price": 799.99,
+    "category": "Sports & Outdoors",
+    "description": "Full-suspension mountain bike with lightweight aluminum frame and hydraulic disc brakes."
+  },
+  {
+    "id": 6,
+    "name": "LEGO Star Wars Millennium Falcon",
+    "price": 159.99,
+    "category": "Toys",
+    "description": "Iconic Star Wars Millennium Falcon LEGO set with minifigures and detailed interior."
+  }
+]
