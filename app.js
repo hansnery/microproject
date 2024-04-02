@@ -13,6 +13,16 @@ app.get("/api/data", (req, res) => {
   res.json(jsonData);
 });
 
+app.get("/page1", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "page1.html"));
+});
+app.get("/page2", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "page2.html"));
+});
+app.get("/page3", (req, res) => {
+  res.sendFile(path.join(__dirname, "public", "page3.html"));
+});
+
 // Serve the index.html file for all other routes
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "public", "index.html"));
